@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Desktop Screenshot 2026 06 19 - 11 11 17 80" src="https://github.com/user-attachments/assets/e00c7d8c-f596-41a1-b535-31c85f62df48" /><img width="1920" height="1080" alt="Desktop Screenshot 2026 06 19 - 11 10 04 02" src="https://github.com/user-attachments/assets/4ee2e1fb-4f21-4ec5-b05d-7207837acf2f" /># DevOps CI/CD Pipeline Project
+
 
 ## Project Overview
 This project demonstrates a complete DevOps CI/CD workflow using GitHub Actions and AWS S3.
